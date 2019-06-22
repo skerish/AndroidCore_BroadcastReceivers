@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCore_Broadcast</string>
+    <string name="button">Send Custom Broadcast</string>
+</resources>
